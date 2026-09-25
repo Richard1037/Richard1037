@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Richard (汪宏睿)
 
-<!--
-**Richard1037/Richard1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year undergraduate at the Gaoling School of Artificial
+Intelligence, Renmin University of China.
 
-Here are some ideas to get you started:
+I build small, dependency-free web tools, and I'm slowly working out
+where in AI I want to go deep.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently** — moving all my coursework into the cloud:
+Course-Resources. It is meant to be added to, so corrections and extra
+material are genuinely welcome; open an issue on that repo, or send a
+pull request.
+
+**Elsewhere**
+- Personal site — the long version
+- Blog — notes from my competitive programming years (in Chinese)
+
+**Things I've built**
+- Idea-Card-Wall — a conveyor-belt wall for keeping half-formed ideas
+- personal-card — a single-file profile card with glassmorphism
+- personal-site — this homepage, under 70 KB
